@@ -1,4 +1,4 @@
-# C-Source-Code-Mini-Projects
+# C Mini Projects
 
 ![C Source Code Mini Projects](/images/c-source-code-mini-projects.png)
 
